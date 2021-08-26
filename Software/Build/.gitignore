@@ -1,0 +1,10 @@
+*.tfstate
+*.tfstate.backup
+*.json
+*.terraform
+*.iso
+*.lock
+*.hcl
+*.bak
+*.info
+*.backup

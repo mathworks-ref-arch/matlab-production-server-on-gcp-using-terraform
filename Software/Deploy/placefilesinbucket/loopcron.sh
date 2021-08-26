@@ -1,0 +1,12 @@
+#!/bin/bash
+CONFIG_FILE=$1
+DEST_LOC=$2
+MPS_ROOT=$3
+VERSION=$4
+MPS_INSTANCE_FOLDER=$5
+MPS_INSTANCE_NAME=$6
+
+/opt/monitor_config_restart_mps.sh ${CONFIG_FILE} ${DEST_LOC} ${MPS_ROOT} ${VERSION} ${MPS_INSTANCE_FOLDER} ${MPS_INSTANCE_NAME} &
+exit 0
+
+# (c) 2021 MathWorks, Inc.

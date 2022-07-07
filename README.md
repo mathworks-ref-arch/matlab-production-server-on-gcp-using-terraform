@@ -100,7 +100,7 @@ variable "credentials_file_path"{
 
 ### Quick Links:
 
-* [Configure MATLAB Production Server Licensing on the Cloud](https://www.mathworks.com/help/licensingoncloud/matlab-production-server-on-the-cloud.html).
+* [Configure MATLAB Production Server Licensing on the Cloud](https://www.mathworks.com/help/mps/server/configure-matlab-production-server-license-for-use-on-the-cloud.html?searchHighlight=Configure%20MATLAB%20Production%20Server%20Licensing%20on%20the%20Cloud&s_tid=srchtitle_Configure%20MATLAB%20Production%20Server%20Licensing%20on%20the%20Cloud_1)
 * [Google Cloud authentication using Service Accounts](https://cloud.google.com/docs/authentication/production)
 * [About MATLAB Production Server](https://www.mathworks.com/products/matlab-production-server.html)
 * [MATLAB Runtime Installers](https://www.mathworks.com/products/compiler/matlab-runtime.html)
